@@ -1,0 +1,89 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+.site {
+  width: 1100px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.header {
+  text-align: center;
+  width: 41%;
+  margin-top: -10px;
+  font-size: 31px;
+}
+.nav {
+  background-color: dodgerblue;
+  overflow: hidden;
+  margin-top: -10px;
+}
+.nav a {
+  float: left;
+  color: White;
+  text-align: center;
+  padding: 16px 14px;
+  text-decoration: none;
+  font-size: 16px;
+}
+.sectionn {
+  width: 70%;
+  float: left;
+}
+.wpis {
+  text-align: left;
+  margin-top: 23px;
+  margin-bottom: 13px;
+  margin-left: 17px;
+  width: 31%;
+  font-size: 31px;
+}
+.article {
+  height: 150px;
+  margin-bottom: 1px;
+}
+.article2 {
+  height: 100px;
+  margin-bottom: 1px;
+}
+.title {
+  font-size: 27px;
+}
+.img {
+  height: 150px;
+  width: 250px;
+  float: left;
+  object-fit: cover;
+  margin-bottom: 1px;
+}
+.txt {
+  font-size: 17px;
+}
+
+.aside {
+  margin-top: 25px;
+  width: 30%;
+  float: right;
+}
+.title2 {
+  font-size: 23px;
+}
+.img2 {
+  height: 100px;
+  width: 150px;
+  float: left;
+  object-fit: cover;
+  margin-bottom: 1px;
+}
+.txt2 {
+  font-size: 13px;
+}
+.stop {
+  padding: 5px;
+  text-align: center;
+  float: left;
+  width: 100%;
+  font-size: 24px;
+  color: White;
+  background-color: dodgerblue;
+}
